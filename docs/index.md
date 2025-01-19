@@ -36,5 +36,12 @@ robots étudiés, en détaillant leurs caractéristiques techniques et leur util
 différents contextes. Ensuite, nous analyserons les travaux pratiques effectués, en
 soulignant les dés rencontrés et les solutions apportées. Enn, nous conclurons en
 évaluant les compétences acquises et leur impact potentiel sur notre future carrière
-professionnelle. </div>
+professionnelle. 
+
+<br><br>
+
+Nous précisons que le rapport n'est pas encore terminé et qu'il reporte juste notre avancement actuel dans les TPs.
+
+</div>
+
 

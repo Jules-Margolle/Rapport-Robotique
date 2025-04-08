@@ -4,7 +4,7 @@ nav_order: 1
 title: Accueil
 ---
 
-Rapport de Robotique pour le groupe : Benjamin BONHOMME, Emma CHATLET, Jules MARGOLLE  
+Rapport de Robotique pour le groupe : Benjamin BONHOMME, Jules MARGOLLE  
 
 # INTRODUCTION
 <br>
